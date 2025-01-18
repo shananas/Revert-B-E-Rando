@@ -2475,26 +2475,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/al09.ard
-  - name: ard/jp/al09.ard
-  - name: ard/fr/al09.ard
-  - name: ard/gr/al09.ard
-  - name: ard/it/al09.ard
-  - name: ard/sp/al09.ard
-  name: ard/us/al09.ard
-  source:
-  - method: spawnpoint
-    name: b_00
-    source:
-    - name: ard/al09/b_00.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_01
-    source:
-    - name: ard/al09/b_01.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/al10.ard
   - name: ard/jp/al10.ard
   - name: ard/fr/al10.ard
@@ -3195,21 +3175,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/bb13.ard
-  - name: ard/jp/bb13.ard
-  - name: ard/fr/bb13.ard
-  - name: ard/gr/bb13.ard
-  - name: ard/it/bb13.ard
-  - name: ard/sp/bb13.ard
-  name: ard/us/bb13.ard
-  source:
-  - method: spawnpoint
-    name: b_80
-    source:
-    - name: ard/bb13/b_80.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/bb15.ard
   - name: ard/jp/bb15.ard
   - name: ard/fr/bb15.ard
@@ -3417,21 +3382,6 @@ assets:
     name: b_99
     source:
     - name: ard/ca07/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/ca08.ard
-  - name: ard/jp/ca08.ard
-  - name: ard/fr/ca08.ard
-  - name: ard/gr/ca08.ard
-  - name: ard/it/ca08.ard
-  - name: ard/sp/ca08.ard
-  name: ard/us/ca08.ard
-  source:
-  - method: spawnpoint
-    name: b_80
-    source:
-    - name: ard/ca08/b_80.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -3780,26 +3730,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/ca16.ard
-  - name: ard/jp/ca16.ard
-  - name: ard/fr/ca16.ard
-  - name: ard/gr/ca16.ard
-  - name: ard/it/ca16.ard
-  - name: ard/sp/ca16.ard
-  name: ard/us/ca16.ard
-  source:
-  - method: spawnpoint
-    name: b_80
-    source:
-    - name: ard/ca16/b_80.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/ca16/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/ca18.ard
   - name: ard/jp/ca18.ard
   - name: ard/fr/ca18.ard
@@ -3977,21 +3907,6 @@ assets:
     name: b_97
     source:
     - name: ard/dc00/b_97.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/dc01.ard
-  - name: ard/jp/dc01.ard
-  - name: ard/fr/dc01.ard
-  - name: ard/gr/dc01.ard
-  - name: ard/it/dc01.ard
-  - name: ard/sp/dc01.ard
-  name: ard/us/dc01.ard
-  source:
-  - method: spawnpoint
-    name: b_00
-    source:
-    - name: ard/dc01/b_00.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -4410,26 +4325,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/eh22.ard
-  - name: ard/jp/eh22.ard
-  - name: ard/fr/eh22.ard
-  - name: ard/gr/eh22.ard
-  - name: ard/it/eh22.ard
-  - name: ard/sp/eh22.ard
-  name: ard/us/eh22.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/eh22/b_40.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_41
-    source:
-    - name: ard/eh22/b_41.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/eh23.ard
   - name: ard/jp/eh23.ard
   - name: ard/fr/eh23.ard
@@ -4500,51 +4395,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/eh26.ard
-  - name: ard/jp/eh26.ard
-  - name: ard/fr/eh26.ard
-  - name: ard/gr/eh26.ard
-  - name: ard/it/eh26.ard
-  - name: ard/sp/eh26.ard
-  name: ard/us/eh26.ard
-  source:
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/eh26/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/eh27.ard
-  - name: ard/jp/eh27.ard
-  - name: ard/fr/eh27.ard
-  - name: ard/gr/eh27.ard
-  - name: ard/it/eh27.ard
-  - name: ard/sp/eh27.ard
-  name: ard/us/eh27.ard
-  source:
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/eh27/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/eh28.ard
-  - name: ard/jp/eh28.ard
-  - name: ard/fr/eh28.ard
-  - name: ard/gr/eh28.ard
-  - name: ard/it/eh28.ard
-  - name: ard/sp/eh28.ard
-  name: ard/us/eh28.ard
-  source:
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/eh28/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/hb01.ard
   - name: ard/jp/hb01.ard
   - name: ard/fr/hb01.ard
@@ -4572,36 +4422,6 @@ assets:
     name: b_60
     source:
     - name: ard/hb01/b_60.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/hb02.ard
-  - name: ard/jp/hb02.ard
-  - name: ard/fr/hb02.ard
-  - name: ard/gr/hb02.ard
-  - name: ard/it/hb02.ard
-  - name: ard/sp/hb02.ard
-  name: ard/us/hb02.ard
-  source:
-  - method: spawnpoint
-    name: b_00
-    source:
-    - name: ard/hb02/b_00.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_20
-    source:
-    - name: ard/hb02/b_20.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_21
-    source:
-    - name: ard/hb02/b_21.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_80
-    source:
-    - name: ard/hb02/b_80.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -4760,21 +4580,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/hb10.ard
-  - name: ard/jp/hb10.ard
-  - name: ard/fr/hb10.ard
-  - name: ard/gr/hb10.ard
-  - name: ard/it/hb10.ard
-  - name: ard/sp/hb10.ard
-  name: ard/us/hb10.ard
-  source:
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/hb10/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/hb11.ard
   - name: ard/jp/hb11.ard
   - name: ard/fr/hb11.ard
@@ -4822,21 +4627,6 @@ assets:
     name: b_21
     source:
     - name: ard/hb11/b_21.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/hb13.ard
-  - name: ard/jp/hb13.ard
-  - name: ard/fr/hb13.ard
-  - name: ard/gr/hb13.ard
-  - name: ard/it/hb13.ard
-  - name: ard/sp/hb13.ard
-  name: ard/us/hb13.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/hb13/b_40.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -4902,26 +4692,6 @@ assets:
     name: b_48
     source:
     - name: ard/hb16/b_48.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/hb17.ard
-  - name: ard/jp/hb17.ard
-  - name: ard/fr/hb17.ard
-  - name: ard/gr/hb17.ard
-  - name: ard/it/hb17.ard
-  - name: ard/sp/hb17.ard
-  name: ard/us/hb17.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/hb17/b_40.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/hb17/b_99.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -5287,41 +5057,6 @@ assets:
     name: b_99
     source:
     - name: ard/he00/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/he02.ard
-  - name: ard/jp/he02.ard
-  - name: ard/fr/he02.ard
-  - name: ard/gr/he02.ard
-  - name: ard/it/he02.ard
-  - name: ard/sp/he02.ard
-  name: ard/us/he02.ard
-  source:
-  - method: spawnpoint
-    name: b_4a
-    source:
-    - name: ard/he02/b_4a.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_4b
-    source:
-    - name: ard/he02/b_4b.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_4c
-    source:
-    - name: ard/he02/b_4c.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_4d
-    source:
-    - name: ard/he02/b_4d.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_4e
-    source:
-    - name: ard/he02/b_4e.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -6125,26 +5860,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/he10.ard
-  - name: ard/jp/he10.ard
-  - name: ard/fr/he10.ard
-  - name: ard/gr/he10.ard
-  - name: ard/it/he10.ard
-  - name: ard/sp/he10.ard
-  name: ard/us/he10.ard
-  source:
-  - method: spawnpoint
-    name: b_80
-    source:
-    - name: ard/he10/b_80.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_81
-    source:
-    - name: ard/he10/b_81.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/he11.ard
   - name: ard/jp/he11.ard
   - name: ard/fr/he11.ard
@@ -6332,21 +6047,6 @@ assets:
     name: b_63
     source:
     - name: ard/he19/b_63.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/lk02.ard
-  - name: ard/jp/lk02.ard
-  - name: ard/fr/lk02.ard
-  - name: ard/gr/lk02.ard
-  - name: ard/it/lk02.ard
-  - name: ard/sp/lk02.ard
-  name: ard/us/lk02.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/lk02/b_40.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -6572,21 +6272,6 @@ assets:
     name: b_40
     source:
     - name: ard/lk14/b_40.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/lk15.ard
-  - name: ard/jp/lk15.ard
-  - name: ard/fr/lk15.ard
-  - name: ard/gr/lk15.ard
-  - name: ard/it/lk15.ard
-  - name: ard/sp/lk15.ard
-  name: ard/us/lk15.ard
-  source:
-  - method: spawnpoint
-    name: b_60
-    source:
-    - name: ard/lk15/b_60.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
@@ -7180,176 +6865,6 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   multi:
-  - name: ard/nm09.ard
-  - name: ard/jp/nm09.ard
-  - name: ard/fr/nm09.ard
-  - name: ard/gr/nm09.ard
-  - name: ard/it/nm09.ard
-  - name: ard/sp/nm09.ard
-  name: ard/us/nm09.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/nm09/b_40.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_50
-    source:
-    - name: ard/nm09/b_50.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_51
-    source:
-    - name: ard/nm09/b_51.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_52
-    source:
-    - name: ard/nm09/b_52.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/nm10.ard
-  - name: ard/jp/nm10.ard
-  - name: ard/fr/nm10.ard
-  - name: ard/gr/nm10.ard
-  - name: ard/it/nm10.ard
-  - name: ard/sp/nm10.ard
-  name: ard/us/nm10.ard
-  source:
-  - method: spawnpoint
-    name: b_60
-    source:
-    - name: ard/nm10/b_60.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_61
-    source:
-    - name: ard/nm10/b_61.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/po01.ard
-  - name: ard/jp/po01.ard
-  - name: ard/fr/po01.ard
-  - name: ard/gr/po01.ard
-  - name: ard/it/po01.ard
-  - name: ard/sp/po01.ard
-  name: ard/us/po01.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/po01/b_40.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_89
-    source:
-    - name: ard/po01/b_89.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/po06.ard
-  - name: ard/jp/po06.ard
-  - name: ard/fr/po06.ard
-  - name: ard/gr/po06.ard
-  - name: ard/it/po06.ard
-  - name: ard/sp/po06.ard
-  name: ard/us/po06.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/po06/b_40.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/po07.ard
-  - name: ard/jp/po07.ard
-  - name: ard/fr/po07.ard
-  - name: ard/gr/po07.ard
-  - name: ard/it/po07.ard
-  - name: ard/sp/po07.ard
-  name: ard/us/po07.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/po07/b_40.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/po08.ard
-  - name: ard/jp/po08.ard
-  - name: ard/fr/po08.ard
-  - name: ard/gr/po08.ard
-  - name: ard/it/po08.ard
-  - name: ard/sp/po08.ard
-  name: ard/us/po08.ard
-  source:
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/po08/b_40.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/po09.ard
-  - name: ard/jp/po09.ard
-  - name: ard/fr/po09.ard
-  - name: ard/gr/po09.ard
-  - name: ard/it/po09.ard
-  - name: ard/sp/po09.ard
-  name: ard/us/po09.ard
-  source:
-  - method: spawnpoint
-    name: b_10
-    source:
-    - name: ard/po09/b_10.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_30
-    source:
-    - name: ard/po09/b_30.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_40
-    source:
-    - name: ard/po09/b_40.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_41
-    source:
-    - name: ard/po09/b_41.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/po09/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/tr00.ard
-  - name: ard/jp/tr00.ard
-  - name: ard/fr/tr00.ard
-  - name: ard/gr/tr00.ard
-  - name: ard/it/tr00.ard
-  - name: ard/sp/tr00.ard
-  name: ard/us/tr00.ard
-  source:
-  - method: spawnpoint
-    name: b_00
-    source:
-    - name: ard/tr00/b_00.yml
-    type: AreaDataSpawn
-  - method: spawnpoint
-    name: b_99
-    source:
-    - name: ard/tr00/b_99.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
   - name: ard/tr01.ard
   - name: ard/jp/tr01.ard
   - name: ard/fr/tr01.ard
@@ -7502,21 +7017,6 @@ assets:
     name: b_60
     source:
     - name: ard/tr04/b_60.yml
-    type: AreaDataSpawn
-- method: binarc
-  multi:
-  - name: ard/tr05.ard
-  - name: ard/jp/tr05.ard
-  - name: ard/fr/tr05.ard
-  - name: ard/gr/tr05.ard
-  - name: ard/it/tr05.ard
-  - name: ard/sp/tr05.ard
-  name: ard/us/tr05.ard
-  source:
-  - method: spawnpoint
-    name: b_00
-    source:
-    - name: ard/tr05/b_00.yml
     type: AreaDataSpawn
 - method: binarc
   multi:
