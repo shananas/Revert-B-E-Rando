@@ -1,12 +1,5 @@
 game: kh2
 assets:
-#Seifer revert
-- name: 00objentry.bin
-  method: listpatch
-  type: List
-  source:
-  - name: ObjList.yml
-    type: objentry
 - name: msn/fr/AL03_MS103.bar
   method: copy
   source:

@@ -63,7 +63,7 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 1656
+  - ObjectId: 1876
     PositionX: -601.04071044921875
     PositionY: -0
     PositionZ: 601.040771484375
@@ -73,7 +73,7 @@
     SpawnType: 3
     SpawnArgument: 0
     Serial: 20
-    Argument1: 2
+    Argument1: 0
     Argument2: 0
     ReactionCommand: 0
     SpawnDelay: 0
