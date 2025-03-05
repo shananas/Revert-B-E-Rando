@@ -6482,6 +6482,11 @@ assets:
     - name: ard/tt05/b_42.yml
     type: AreaDataSpawn
   - method: spawnpoint
+    name: b_43
+    source:
+    - name: ard/tt05/b_43.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
     name: b_44
     source:
     - name: ard/tt05/b_44.yml
