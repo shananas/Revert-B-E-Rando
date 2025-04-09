@@ -3357,6 +3357,16 @@ assets:
     - name: ard/ca10/b_30.yml
     type: AreaDataSpawn
   - method: spawnpoint
+    name: b_40
+    source:
+    - name: ard/ca10/b_40.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
+    name: b_70
+    source:
+    - name: ard/ca10/b_70.yml
+    type: AreaDataSpawn
+  - method: spawnpoint
     name: b_80
     source:
     - name: ard/ca10/b_80.yml
